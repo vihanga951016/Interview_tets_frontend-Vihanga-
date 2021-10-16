@@ -1,0 +1,54 @@
+.note-card{
+    border-style: ridge;
+    list-style-type: none;
+    width: auto;
+    padding-bottom: 55px;
+}
+
+.card-holder{
+    width: 60%;
+    margin: auto;
+}
+
+.create-button{
+    width: 140px;
+    height: 40px;
+    background-color: rgb(72, 185, 87);
+    border-style: none;
+    color: white;
+    font-size: 15px;
+}
+
+.create-button:hover{
+    background-color: rgb(152, 197, 158);
+    color: black;
+    transition: 0.2s;
+}
+
+#update-button{
+    width: 100px;
+    height: 40px;
+    float: right;
+    margin-right: 10px;
+    background-color: rgb(243, 194, 33);
+    border-style: none;
+}
+
+#update-button:hover{
+    background-color: rgb(240, 163, 20);
+    color: white;
+}
+
+#delete-button{
+    width: 100px;
+    height: 40px;
+    float: right;
+    margin-right: 10px;
+    background-color: rgb(240, 63, 63);
+    border-style: none;
+}
+
+#delete-button:hover{
+    background-color: rgb(233, 34, 34);
+    color: white;
+}

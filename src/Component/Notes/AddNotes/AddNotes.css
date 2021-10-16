@@ -1,0 +1,23 @@
+#submit-button{
+    margin-right: 10px;
+    background-color: rgb(72, 185, 87);
+    border-style: none;
+    width: 100px;
+    height: 40px;
+}
+
+#submit-button:hover{
+    background-color: rgb(24, 122, 38);
+}
+
+#cancel-button{
+    margin-right: 10px;
+    background-color: rgb(240, 63, 63);
+    border-style: none;
+    width: 100px;
+    height: 40px;
+}
+
+#cancel-button:hover{
+    background-color: rgb(233, 34, 34);
+}

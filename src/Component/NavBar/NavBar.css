@@ -1,0 +1,27 @@
+.navbar{
+  height: 50px;
+  margin: auto;
+  background-color: rgb(6, 101, 165);
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  
+
+}
+
+#line{
+  float: left;
+}
+
+#link{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#link:hover{
+  background-color: rgb(24, 141, 219);
+}
